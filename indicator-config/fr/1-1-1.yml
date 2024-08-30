@@ -29,4 +29,6 @@ precision: []
 reporting_status: ""
 sort: ''
 standalone: false
-tags: []
+tags:
+  - foo french
+  - bar french
