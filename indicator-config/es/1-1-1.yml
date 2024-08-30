@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: My title for 1.1.1
+graph_title: My title for 1.1.1 - testing
 graph_titles: []
 graph_type: ""
 indicator_name: My title for 1.1.1
