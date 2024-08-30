@@ -30,5 +30,5 @@ reporting_status: ""
 sort: ''
 standalone: false
 tags:
-  - ""
-  - ""
+  - foo french
+  - bar french
