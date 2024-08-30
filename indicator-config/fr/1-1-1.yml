@@ -17,7 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: ""
+graph_title: My french title
 graph_titles: []
 graph_type: ""
 indicator_name: My french title
