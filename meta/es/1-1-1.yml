@@ -1,11 +1,10 @@
 SDG_GOAL: >-
-  Meta 1: Poner fin a la pobreza en todas sus formas y en todo el mundo
+  Meta 1: Poner fin a la pobreza en todas sus formas y en todo el mundo TESTING
 SDG_TARGET: >-
   Objetivo 1.1: De aquí a 2030, erradicar para todas las personas y en todo el mundo la pobreza extrema (actualmente se considera que sufren pobreza extrema las personas que viven con menos de 1,25 dólares de los Estados Unidos al día)
 SDG_INDICATOR: >-
   Indicador 1.1.1: Proporción de la población que vive por debajo del umbral de pobreza internacional por sexo, edad, situación laboral y ubicación geográfica (urbana/rural)
-SDG_SERIES_DESCR: >-
-
+SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: >-
 
 SDG_RELATED_INDICATORS: >-
