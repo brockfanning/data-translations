@@ -1,0 +1,21 @@
+filters:
+  - filter_type: dir
+    file_format: YAML_GENERIC
+    source_file_extension: yml
+    source_language: en
+    source_file_dir: meta
+    translation_files_expression: 'meta/<lang>'
+
+  - filter_type: dir
+    file_format: YAML_GENERIC
+    source_file_extension: yml
+    source_language: en
+    source_file_dir: indicator-config
+    translation_files_expression: 'indicator-config/<lang>'
+
+  - filter_type: dir
+    file_format: YAML_GENERIC
+    source_file_extension: yml
+    source_language: en
+    source_file_dir: translations/en
+    translation_files_expression: 'translations/<lang>'
